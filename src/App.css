@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  margin: 20px;
+  }
+  
+  table {
+  border-collapse: collapse;
+  margin-top: 20px;
+  }
+  
+  table td,
+  table th {
+  border: 1px solid black;
+  padding: 5px;
+  }
+  
+  table th {
+  background-color: #eee;
+  font-weight: bold;
+  }
+  
+  label {
+  display: inline-block;
+  width: 80px;
+  text-align: right;
+  margin-right: 10px;
+  }
+  
+  input[type='text'] {
+  width: 200px;
+  margin-right: 10px;
+  }
+  
+  button {
+  margin-right: 10px;
+  }
